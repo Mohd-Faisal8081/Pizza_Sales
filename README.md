@@ -28,64 +28,24 @@ The **Pizza Sales** project focuses on processing and analyzing sales data to un
 2. **SQL Queries for Data Analysis**
 
 ### **Results & Insights**
-1. **Best-Selling Pizzas**: Classic Pepperoni and BBQ Chicken emerged as the most preferred pizzas.
-2. **Sales Trends**: Peak sales occur on weekends, with the highest revenue generated on Fridays and Saturdays.
-3. **Order Behavior**: The average order value is **$15**, with customers mostly opting for medium-sized pizzas.
-4. **Revenue Contribution**: Large-sized pizzas contribute the highest revenue despite a lower order count.
-5. **Customer Insights**: Regular customers contribute to **60% of total sales**, indicating strong brand loyalty.
 
 1. **Total number of orders placed**: 21350 orders were recorded in the dataset.
 2. **Total revenue generated**: The total revenue from all pizza sales is $817,860.
 3. **Highest-priced pizza**: The most expensive pizza is The Greek Pizza Chicken Large ($36).
 4. **Top 5 most ordered pizza types**:
-- The Classic Deluxe pizza
-- The Barbeque Chicken pizza
-- The Hawaiian pizza
-- The Pepperoni pizza
-- The Thai Chicken pizza
-
-Total quantity of each pizza category ordered: Highest orders came from the Classic and Chicken categories.
-
-Distribution of orders by hour of the day: Peak ordering times were between 12 PM – 2 PM and 6 PM – 8 PM.
-
-Category-wise distribution of pizzas: Classic pizzas contributed the most to total revenue.
-
-Average number of pizzas ordered per day: Approximately 135 pizzas per day.
-
-Top 3 most ordered pizza types based on revenue:
-
-The Classic Deluxe
-
-The Thai Chicken
-
-The Barbeque Chicken
-
-Advanced Analysis
-
-Percentage contribution of each pizza type to total revenue:
-
-Classic Pizzas: 32%
-
-Chicken Pizzas: 24%
-
-Veggie Pizzas: 18%
-
-Meat Pizzas: 16%
-
-Seafood Pizzas: 10%
-
-Cumulative revenue generated over time: Revenue steadily increased over months, with the highest sales recorded in December.
-
-Top 3 most ordered pizza types based on revenue for each category:
-
-Classic: The Classic Deluxe, The Five Cheese, The Pepperoni Feast
-
-Chicken: The Thai Chicken, The Barbeque Chicken, The Spicy Chicken Ranch
-
-Veggie: The Greek Veggie, The Mediterranean Delight, The Garden Fresh
-
-SQL Scripts & Dataset
-
+- The Classic Deluxe Pizza
+- The Barbeque Chicken Pizza
+- The Hawaiian Pizza
+- The Pepperoni Pizza
+- The Thai Chicken Pizza
+5. **Total quantity of each pizza category ordered**: Highest orders came from the Classic and Supreme categories.
+6. **Distribution of orders by hour of the day**: Peak ordering times were between 12 PM – 2 PM and 6 PM – 8 PM.
+7. **Category-wise distribution of pizzas**: Chicken pizzas contributed the most to total revenue.
+8. **Average number of pizzas ordered per day**: Approximately 138 pizzas per day.
+9. **Top 3 most ordered pizza types based on revenue**:
+- The Thai Chicken Pizza
+- The Barbeque Chicken Pizza
+- The California Chicken Pizza
 
 ### **SQL Scripts & Dataset**
 - **Dataset**:
@@ -93,7 +53,6 @@ SQL Scripts & Dataset
 - https://github.com/Mohd-Faisal8081/Pizza_Sales/blob/main/orders.csv
 - https://github.com/Mohd-Faisal8081/Pizza_Sales/blob/main/pizza_types.csv
 - https://github.com/Mohd-Faisal8081/Pizza_Sales/blob/main/pizzas.csv
-- **SQL Scripts**: https://github.com/Mohd-Faisal8081/Pizza-Sales/blob/main/pizza_sales_queries.sql
 
 ### **Author**
 **Mohd Faisal**
