@@ -36,7 +36,11 @@ The **Pizza Sales ** project focuses on processing and analyzing sales data to u
 5. **Customer Insights**: Regular customers contribute to **60% of total sales**, indicating strong brand loyalty.
 
 ### **SQL Scripts & Dataset**
-- **Dataset**: https://github.com/Mohd-Faisal8081/Pizza-Sales/blob/main/pizza_sales_data.xlsx
+- **Dataset**:
+- https://github.com/Mohd-Faisal8081/Pizza_Sales/blob/main/order_details.csv
+- https://github.com/Mohd-Faisal8081/Pizza_Sales/blob/main/orders.csv
+- https://github.com/Mohd-Faisal8081/Pizza_Sales/blob/main/pizza_types.csv
+- https://github.com/Mohd-Faisal8081/Pizza_Sales/blob/main/pizzas.csv
 - **SQL Scripts**: https://github.com/Mohd-Faisal8081/Pizza-Sales/blob/main/pizza_sales_queries.sql
 
 ### **Author**
