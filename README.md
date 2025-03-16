@@ -8,7 +8,6 @@ This project involves analyzing a **Pizza Sales dataset** using **SQL Server** t
 ### **Tools & Technologies Used**
 - **SQL Server**: For database creation, query execution, and data analysis.
 - **SSMS (SQL Server Management Studio)**: For managing and querying the SQL database.
-- **Excel**: For preliminary data cleaning and exporting reports.
 
 ### **Project Overview**
 The **Pizza Sales ** project focuses on processing and analyzing sales data to uncover patterns in customer preferences, seasonal demand, and overall business performance. SQL queries are used to extract meaningful insights that can assist in optimizing business operations.
