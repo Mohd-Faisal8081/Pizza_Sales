@@ -3,7 +3,7 @@
 A **SQL Server-based analytical project** designed to explore and analyze pizza sales data, focusing on key performance metrics, sales trends, and customer preferences. This project demonstrates skills in SQL querying, database management, and data-driven decision-making.
 
 ### **Introduction**
-This project involves analyzing a **Pizza Sales dataset** using **SQL Server** to derive insights into sales trends, product performance, and customer buying behavior. Various SQL techniques are applied to filter, aggregate, and manipulate data for meaningful visual representation and business insights.
+This project involves analyzing a **Pizza Sales** using **SQL Server** to derive insights into sales trends, product performance, and customer buying behavior. Various SQL techniques are applied to filter, aggregate, and manipulate data for meaningful visual representation and business insights.
 
 ### **Tools & Technologies Used**
 - **SQL Server**: For database creation, query execution, and data analysis.
