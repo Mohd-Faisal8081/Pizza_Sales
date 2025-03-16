@@ -10,7 +10,7 @@ This project involves analyzing a **Pizza Sales** using **SQL Server** to derive
 - **SSMS (SQL Server Management Studio)**: For managing and querying the SQL database.
 
 ### **Project Overview**
-The **Pizza Sales ** project focuses on processing and analyzing sales data to uncover patterns in customer preferences, seasonal demand, and overall business performance. SQL queries are used to extract meaningful insights that can assist in optimizing business operations.
+The ** Pizza Sales ** project focuses on processing and analyzing sales data to uncover patterns in customer preferences, seasonal demand, and overall business performance. SQL queries are used to extract meaningful insights that can assist in optimizing business operations.
 
 #### **Key Features**
 1. **Total Sales Analysis**: Computes the total revenue generated from pizza sales.
